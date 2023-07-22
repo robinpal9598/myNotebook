@@ -1,0 +1,9 @@
+.about{
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    border: 10px solid green ;
+    padding: 10px;
+    border-color: aquamarine;
+    border-color: rgb(232, 238, 245);
+}
